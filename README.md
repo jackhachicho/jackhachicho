@@ -1,7 +1,5 @@
-## Hi there 👋
-
-# 💫 About Me:
-🍕 I’m currently working on a fullstack web application to track pizza statistics across NYC!<br>🌱 I’m currently learning backend development more in depth!<br>💬 Ask me about CUNYGPT!<br>⚡ I can type at 150 WPM!
+## Hello I'm Jack! 🙋‍♂️ I'm currently:
+🍕 Developing a fullstack web application to track pizza statistics across NYC!<br>🌱 Learning backend development more in depth!<br>💬 Ask me about CUNYGPT!<br>⚡ Fun fact I can type at 150 WPM!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jackh_123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jackhachicho/) 
