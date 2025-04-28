@@ -1,5 +1,4 @@
 ### Hello, I'm Jack! 🙋‍♂️ I'm currently:
-- 🍕 Developing a full-stack web application to track pizza statistics across NYC!  
 - 🌱 Learning backend development more in depth!  
 - 💬 Ask me about CUNYGPT!  
 - ⚡ Fun fact: I can type at 150 WPM!
